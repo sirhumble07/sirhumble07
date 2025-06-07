@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+Architect+%7C+Azure+Specialist;DevOps+Engineer+%7C+Infrastructure+Wizard;Building+cloud+castles+with+code;Turning+coffee+into+infrastructure+since+2017)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Infrastructure+Engineer+;Microsoft+Azure+%7C%7C+Microsoft+365+Administrator+;Windows+Server+%7C%7C+Technical+Support+;Cloud+Automation+%26+Security+Enthusiast+;DevOps;Turning+Coffee+into+Infrastructure+since+2020+)](https://git.io/typing-svg)
 
 </div>
 
