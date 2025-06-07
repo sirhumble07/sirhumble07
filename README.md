@@ -3,11 +3,10 @@
   <h3 style="margin-top: 4px;">but you can call me <strong>"Vic"</strong> or <strong>"Humble"</strong> - whichever loads faster!</h3>
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Infrastructure+Engineer;Microsoft+Azure+%7C%7C+Microsoft+365+Administrator;Windows+Server+%7C%7C+Technical+Support;Cloud+Automation+%26+Security+Enthusiast;DevOps+Engineer;Turning+Coffee+into+Infrastructure+since+2020+" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Infrastructure+Engineer+;Microsoft+Azure+%7C%7C+Microsoft+365+Administrator+;Windows+Server+%7C%7C+Technical+Support+;Cloud+Automation+%26+Security+Enthusiast+;DevOps;Turning+Coffee+into+Infrastructure+since+2020+)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
