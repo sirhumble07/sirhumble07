@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Infrastructure+Engineer;Microsoft+Azure+%7C%7C+M365+Administrator;Windows+Server+%7C%7C+Technical+Support;Cloud+Automation+%26+Microsoft+Entra+ID;DevOps+Engineer;Turning+Coffee+into+Infrastructure+since+2020+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+Infrastructure+Engineer;Microsoft+Azure+%7C%7C+M365+Administrator;Windows+Server+%7C%7C+Technical+Support;%26+Microsoft+Entra+ID;DevOps+Engineer+Cloud+Automation;Turning+Coffee+into+Infrastructure+since+2020+" alt="Typing SVG" />
 </p>
 
 
