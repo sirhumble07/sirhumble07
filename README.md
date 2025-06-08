@@ -66,8 +66,8 @@ victor_nwoke:
 
 <div align="center">
 
-[![Kunle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunlesanni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirhumble07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirhumble07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -103,7 +103,7 @@ victor_nwoke:
 
 **🎩 Happy to help turn your cloud challenges into magical solutions! ✨**
 
-![Profile Views](https://komarev.com/ghpvc/?username=kunlesanni&color=5BCDEC&style=flat-square&label=Profile+Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=sirhumble07&color=5BCDEC&style=flat-square&label=Profile+Visitors)
 
 </div>
 
