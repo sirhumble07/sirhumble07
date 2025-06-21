@@ -75,8 +75,8 @@ victor_nwoke:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunlesanni&repo=azure-quickstart-templates&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/kunlesanni/azure_vnet_iac)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunlesanni&repo=terraform-azure-modules&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/kunlesanni/terraform-azure-modules)
+[![Readme Card](https://github.com/sirhumble07/azure_vnet_iac)]([https://github.com/kunlesanni/azure_vnet_iac](https://sirhumble07.github.io/Automating-Azure-Infrastructure/))
+[![Readme Card](https://github.com/sirhumble07/Automating-Azure-Infrastructure)](https://github.com/sirhumble07)
 
 </div>
 
